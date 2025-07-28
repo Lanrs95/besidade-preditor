@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do desafio técnico da pós-graduação
 
 ## 🔗 Acesse o aplicativo online
 
-👉 [Clique aqui para testar o modelo em tempo real](https://besidade-preditor-2us4wnkvaologr3wgyv972.streamlit.app/)
+👉 [Clique aqui para testar o modelo em tempo real](https://besidade-preditor-xxkq5zu2q5ftvzbmhnzyhp.streamlit.app/)
 
 ---
 
