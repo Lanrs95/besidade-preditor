@@ -1,0 +1,12 @@
+POSTECH - Tech Challenge - Fase 4
+
+🔗 Links entregues:
+
+✅ Link do vídeo de apresentação:
+https://www.loom.com/share/237db3a2b1e3422a8f63ef586ec7cac0?sid=e5ed235e-826c-4a7e-bf4e-84c67c08c54b
+
+✅ Link do aplicativo Streamlit:
+https://besidade-preditor-xxkq5zu2q5ftvzbmhnzyhp.streamlit.app/
+
+✅ Link do repositório no GitHub:
+https://github.com/Lanrs95/besidade-preditor
