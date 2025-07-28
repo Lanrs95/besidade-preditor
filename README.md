@@ -95,4 +95,4 @@ streamlit run app.py
 
 **Allan Ribeiro da Silva**  
 Desenvolvido como parte da Pós-Graduação em Data Analytics – POSTECH  
-📫 [linkedin.com/in/allanrs](https://www.linkedin.com/in/allanrs)
+📫 [linkedin.com/in/allanrs](https://www.linkedin.com/in/allan-ribeiro-312029209/))
